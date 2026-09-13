@@ -56,14 +56,14 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 
 ### 🆕 最新文章
 
-- [OKX 交易所注册与下载完整教程（2026 新手版）](https://newbeebnb.cn/posts/okx-registration-guide-2026) · 2026-09-12
-- [币安注册完整图文教程（超详细版 2026）](https://newbeebnb.cn/posts/binance-registration-guide-2026) · 2026-09-11
-- [交易信号与跟单交易：新手到底该不该跟单？（2026）](https://newbeebnb.cn/posts/copy-trading-signals-guide-2026) · 2026-09-10
-- [Python 量化交易入门：从零写你的第一个回测（2026）](https://newbeebnb.cn/posts/python-quant-trading-backtest-2026) · 2026-09-09
-- [加密货币定投策略详解：每周定投到底怎么做？（2026）](https://newbeebnb.cn/posts/crypto-dca-investing-guide-2026) · 2026-09-08
-- [币圈骗局识别，朋友听我劝，三字一顿防陷阱](https://newbeebnb.cn/posts/crypto-scam-common-types-guide-2026) · 2026-09-07
-- [币安/欧易合约交易入门：杠杆与保证金原理详解（2026）](https://newbeebnb.cn/posts/crypto-futures-leverage-guide-2026) · 2026-09-07
-- [USDT出金安全，朋友劝：别冻卡](https://newbeebnb.cn/posts/usdt-withdraw-p2p-safety-guide-2026) · 2026-09-06
+- [新手买币入门教程：从人民币到比特币的全流程（2026）](https://newbeebnb.cn/posts/buy-bitcoin-china-step-by-step-2026) · 2026-09-13
+- [312 崩盘全记录：比特币一天跌掉 40%，加密史上最惨的一夜](https://newbeebnb.cn/posts/crypto-black-swan-2020-0312-covid-crash) · 2026-09-12
+- [519 崩盘回顾：一天蒸发万亿美元，比特币跌到 28,688](https://newbeebnb.cn/posts/crypto-black-swan-2021-0519-may-crash) · 2026-09-12
+- [LUNA 归零全记录：400 亿美元几天内蒸发，算法稳定币的世纪崩盘](https://newbeebnb.cn/posts/crypto-black-swan-2022-05-luna-collapse) · 2026-09-12
+- [FTX 暴雷全记录：全球第二大交易所，几天内破产](https://newbeebnb.cn/posts/crypto-black-swan-2022-11-ftx-collapse) · 2026-09-12
+- [2024 年 8 月 5 日：日元套息平仓，全球资产同一天熔断](https://newbeebnb.cn/posts/crypto-black-swan-2024-08-yen-carry-unwind) · 2026-09-12
+- [2025 年 3–4 月全球关税战：风险资产集体重定价](https://newbeebnb.cn/posts/crypto-black-swan-2025-tariff-war) · 2026-09-12
+- [1011 大瀑布：2025 年 10 月，史上最猛的一次清算](https://newbeebnb.cn/posts/crypto-black-swan-2025-1011-cascade) · 2026-09-12
 
 ### 📚 新手教程（持续更新）
 
