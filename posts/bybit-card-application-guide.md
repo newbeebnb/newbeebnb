@@ -124,6 +124,11 @@ Bybit 卡是预付卡。不管你是要消费，还是拿它给 Wise 入金，�
 
 后续遇到具体问题，可以对着 [Bybit 借记卡常见问题 FAQ（2026 更新）](https://newbeebnb.cn/posts/bybit-debit-card-faq-2026) 查；想先看整体定位，再回 [Bybit 借记卡完整攻略](https://newbeebnb.cn/posts/bybit-card-complete-guide-2026)。
 
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [Bybit 注册入口](https://newbeebnb.cn/go?t=bybit)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
+
 ## 常见问题（10 问）
 
 **Q1. Bybit 卡申请需要准备什么材料？**

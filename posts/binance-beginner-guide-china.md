@@ -90,6 +90,11 @@ USDT 到账后，进【交易】→【现货】，搜索 BTC/USDT 或 ETH/USDT�
 
 更多从 0 到 1 的入门教程，可以看[全部教程](https://newbeebnb.cn/posts)。
 
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
+
 ## 常见问题（10 问）
 
 **Q1. 币安注册要准备什么资料？**

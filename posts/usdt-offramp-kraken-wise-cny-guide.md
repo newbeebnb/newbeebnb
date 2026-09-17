@@ -89,6 +89,11 @@ Trading 212 的实体卡可以申请，绑定微信、支付宝消费不收手�
 
 这套流程的核心就是「Kraken 把 U 换成法币」这一步，后面的 Wise、iFAST、Trading 212 只是换不同的落袋方式。合规和监管政策一直在变，操作前以各平台最新页面为准。本文只是流程记录，不构成投资建议，也不承诺任何收益。如果你只是想小额消费，不打算换成人民币，那 U 卡那条路可以看[加密支付卡开卡教程](https://newbeebnb.cn/posts/bitget-wallet-fiat24-card-guide-2026)。
 
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
+
 ## 常见问题（10 问）
 
 **Q1. USDT 怎么安全出金成人民币？**

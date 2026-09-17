@@ -66,8 +66,6 @@ KYC 一过，先把安全设置做掉，再谈充值。下面这张表按优先�
 
 **2FA 绑定要点**：在“安全中心 → 双重验证”里选 Google Authenticator，扫码或手动录入密钥添加，再把验证器里生成的动态码回填到 App 中提交。那串 16 位备份密钥是手机丢失时唯一能恢复账户的东西，务必手抄留存。
 
-<img src="/images/posts/binance-register-tutorial-2026/img07.png" alt="币安注册教程2026：注册+KYC+安全设置全流程" style="max-width:100%;height:auto;border-radius:10px;border:1px solid #e5e7eb;margin:14px 0">
-
 **白名单要点**：在“设置 → 提现地址”里打开白名单，点右上角“+”新增地址，选币种、填网络地址、选转账网络、勾选“加入白名单”后保存。之后资金只能去这些地址。
 
 <img src="/images/posts/binance-register-tutorial-2026/img13.jpg" alt="币安注册教程2026：注册+KYC+安全设置全流程" style="max-width:100%;height:auto;border-radius:10px;border:1px solid #e5e7eb;margin:14px 0">
@@ -89,6 +87,11 @@ KYC 一过，先把安全设置做掉，再谈充值。下面这张表按优先�
 币安功能全、流动性好，但手续费档位、出入金方式、能不能用大陆身份，各家都不太一样。动手注册前，建议先扫一眼对比：[主流交易所对比](https://newbeebnb.cn/exchange-compare.html)。
 
 其他从零开始的实操教程，都整理在[全部教程](https://newbeebnb.cn/posts)里，可以按需翻。
+
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
 
 ## 常见问题（10 问）
 

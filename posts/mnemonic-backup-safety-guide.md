@@ -74,6 +74,11 @@ source: https://newbeebnb.cn/posts/mnemonic-backup-safety-guide
 
 如果你刚入门，更多钱包、出入金和基础操作可以翻[全部教程](https://newbeebnb.cn/posts)。
 
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
+
 ## 常见问题（10 问）
 
 **Q1. 助记词可以截图存手机吗？**

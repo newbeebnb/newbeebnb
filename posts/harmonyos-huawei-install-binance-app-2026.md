@@ -44,6 +44,14 @@ source: https://newbeebnb.cn/posts/harmonyos-huawei-install-binance-app-2026
 
 首次打开 App，如果提示「无法连接网络」，检查是否开了系统级网络限制（【设置】→【应用和服务】→【流量管理】）。另外华为的「应用启动管理」默认会把后台应用自动管理，可能导致 App 收不到行情推送——在【应用启动管理】里把币安设为「手动管理」，并勾选允许后台活动。
 
+## 六、装好之后怎么注册
+
+App 装好后需要注册账号才能交易。注册入口在这里（含 20% 手续费减免）：
+
+👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
+
+注册时用邮箱或手机号都行，建议用常用邮箱，后续找回更方便。邀请码会自动带在链接里，不用手填。
+
 ## 常见问题（4 问）
 
 **Q1. 华为手机为什么装不上币安App？**
@@ -75,10 +83,10 @@ source: https://newbeebnb.cn/posts/harmonyos-huawei-install-binance-app-2026
 
 我们整理了一批新手入门资料与实操避坑经验，可以在群里一起讨论：
 
-- **QQ 群**：#QQNUM#（点击加入：https://jq.qq.com/?_wv=1027&k=）
-- **Telegram**：https://t.me/ChenBitget
-- **Bilibili**：https://space.bilibili.com/261535048
-- **Twitter（X）**：https://x.com/ChenBitget
+- **QQ 群**：#QQNUM#（点击加入：[jq.qq.com/?_wv=1027&k=](https://jq.qq.com/?_wv=1027&k=)）
+- **Telegram**：[Telegram 交流群](https://t.me/ChenBitget)
+- **Bilibili**：[Bilibili 主页](https://space.bilibili.com/261535048)
+- **Twitter（X）**：[X（Twitter）](https://x.com/ChenBitget)
 
 ---
 

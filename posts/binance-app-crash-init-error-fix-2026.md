@@ -55,7 +55,7 @@ App 装上了、也能打开，但点进去闪退，或者卡在「初始化中�
 
 官方注册入口（含手续费减免）：
 
-👉 https://newbeebnb.cn/go?t=join
+👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
 
 ## 常见问题（4 问）
 
@@ -88,10 +88,10 @@ App 装上了、也能打开，但点进去闪退，或者卡在「初始化中�
 
 我们整理了一批新手入门资料与实操避坑经验，可以在群里一起讨论：
 
-- **QQ 群**：#QQNUM#（点击加入：https://jq.qq.com/?_wv=1027&k=）
-- **Telegram**：https://t.me/ChenBitget
-- **Bilibili**：https://space.bilibili.com/261535048
-- **Twitter（X）**：https://x.com/ChenBitget
+- **QQ 群**：#QQNUM#（点击加入：[jq.qq.com/?_wv=1027&k=](https://jq.qq.com/?_wv=1027&k=)）
+- **Telegram**：[Telegram 交流群](https://t.me/ChenBitget)
+- **Bilibili**：[Bilibili 主页](https://space.bilibili.com/261535048)
+- **Twitter（X）**：[X（Twitter）](https://x.com/ChenBitget)
 
 ---
 

@@ -90,6 +90,11 @@ source: https://newbeebnb.cn/posts/is-buying-bitcoin-legal-in-china
 
 如果你决定开始，先把三件事看明白：买币流程、资产托管、最坏情况。流程可以从 [新手买币入门教程：从人民币到比特币的全流程](https://newbeebnb.cn/posts/buy-bitcoin-china-step-by-step-2026) 看起；托管和风险，则要比买币本身更上心。
 
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [币安注册入口（含 20% 手续费减免）](https://newbeebnb.cn/go?t=join)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
+
 ## 常见问题（10 问）
 
 **Q1. 买比特币合法吗？**

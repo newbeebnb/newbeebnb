@@ -48,8 +48,6 @@ Bitget Wallet Card 是 Bitget Wallet 联合瑞士 Fiat24 推出的 MasterCard �
 
 苹果用户在 App Store 搜索 "ReadID Ready" 安装；安卓用户看 App 内指引。
 
-<img src="/images/posts/bitget-fiat24/img03.png" alt="Fiat24 与 ReadID Ready 通过二维码关联" style="max-width:100%;height:auto;border-radius:10px;margin:14px 0">
-
 **第 3 步：准备 Arbitrum 链上的 USDC**
 
 钱包里 Arbitrum 链资产要不低于 10 USDC，用于开卡验资。已经够的跳过这步。
@@ -57,8 +55,6 @@ Bitget Wallet Card 是 Bitget Wallet 联合瑞士 Fiat24 推出的 MasterCard �
 **第 4 步：注册 Fiat24 卡银行账户**
 
 在 App 首页底部导航进「钱包」→「银行卡」→「去开卡」，按提示注册 Fiat24 账户。流程里会用邮箱注册并确认邮件，也会要求设置登录和二次验证。
-
-<img src="/images/posts/bitget-fiat24/img06.png" alt="邮箱注册并确认 Fiat24 账户" style="max-width:100%;height:auto;border-radius:10px;margin:14px 0">
 
 <img src="/images/posts/bitget-fiat24/img07.png" alt="登录 Fiat24 并完成二次验证" style="max-width:100%;height:auto;border-radius:10px;margin:14px 0">
 
@@ -71,8 +67,6 @@ Bitget Wallet Card 是 Bitget Wallet 联合瑞士 Fiat24 推出的 MasterCard �
 - 最后按提示完成人脸识别。
 
 <img src="/images/posts/bitget-fiat24/img04.png" alt="开始身份认证并观看操作指引" style="max-width:100%;height:auto;border-radius:10px;margin:14px 0">
-
-<img src="/images/posts/bitget-fiat24/img08.png" alt="护照扫描、NFC 读芯片与人脸识别流程" style="max-width:100%;height:auto;border-radius:10px;margin:14px 0">
 
 **第 6 步：开卡并设置默认支付币种**
 
@@ -124,6 +118,11 @@ Bitget Wallet Card 是 Bitget Wallet 联合瑞士 Fiat24 推出的 MasterCard �
 - **人民币支付**：单笔 ≤ 200 元免手续费；超过 200 元按微信 / 支付宝的标准收 3%，**这笔是支付平台收的，不是卡方收的**
 
 人民币支付限额（按《非银行支付机构网络支付业务管理办法》）：单笔不超过 3,000 元，每月累计不超过 50,000 元，每年累计不超过 600,000 元。
+
+注册入口（站内跳转，落地为官方注册页）：
+
+- 👉 [Bitget 注册入口](https://newbeebnb.cn/go?t=bitget)
+- 👉 [欧易 OKX 注册入口](https://newbeebnb.cn/go?t=okxo)
 
 ## 七、常见问题（13 问）
 
