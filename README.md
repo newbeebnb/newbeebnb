@@ -56,6 +56,7 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 
 ### 🆕 最新文章
 
+- [常用交易指标入门：均线、MACD、RSI 一次讲清（2026）](https://newbeebnb.cn/posts/trading-indicators-beginners-2026) · 2026-09-19
 - [加密货币交易心理：如何克服追涨杀跌？（2026）](https://newbeebnb.cn/posts/crypto-trading-psychology-2026) · 2026-09-18
 - [现货交易 vs 合约交易：新手到底该选哪个？（2026）](https://newbeebnb.cn/posts/spot-vs-futures-trading-guide-2026) · 2026-09-17
 - [币安注册：大陆用户从开页到KYC的完整流程](https://newbeebnb.cn/posts/binance-registration-mainland-china-guide) · 2026-09-16
@@ -63,7 +64,6 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 - [存储芯片超级周期：美光、SK海力士暴涨暴跌背后的多空逻辑（2026）](https://newbeebnb.cn/posts/memory-chip-supercycle-bull-bear-2026) · 2026-09-15
 - [Bybit卡申请指南：虚拟卡开卡、充值与绑定](https://newbeebnb.cn/posts/bybit-card-application-guide) · 2026-09-15
 - [币圈新手避坑指南：最常见的 10 个误区（2026）](https://newbeebnb.cn/posts/crypto-newbie-mistakes-2026) · 2026-09-15
-- [买比特币的平台怎么选？OKX/币安/HTX 对比](https://newbeebnb.cn/posts/how-to-choose-platform-to-buy-bitcoin) · 2026-09-14
 
 ### 📚 新手教程（持续更新）
 
