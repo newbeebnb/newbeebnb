@@ -56,6 +56,7 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 
 ### 🆕 最新文章
 
+- [加密货币风险防范：合规与安全入门指南（2026）](https://newbeebnb.cn/posts/crypto-safety-security-guide-2026) · 2026-09-23
 - [仓位管理策略：轻仓、分散与回撤控制入门（2026）](https://newbeebnb.cn/posts/position-sizing-risk-management-2026) · 2026-09-22
 - [止盈止损设置全指南：新手仓位与风控入门（2026）](https://newbeebnb.cn/posts/stop-loss-take-profit-guide-2026) · 2026-09-21
 - [移动端交易实战：手机下单入门全流程（2026）](https://newbeebnb.cn/posts/mobile-trading-guide-2026) · 2026-09-20
@@ -63,7 +64,6 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 - [加密货币交易心理：如何克服追涨杀跌？（2026）](https://newbeebnb.cn/posts/crypto-trading-psychology-2026) · 2026-09-18
 - [现货交易 vs 合约交易：新手到底该选哪个？（2026）](https://newbeebnb.cn/posts/spot-vs-futures-trading-guide-2026) · 2026-09-17
 - [币安注册：大陆用户从开页到KYC的完整流程](https://newbeebnb.cn/posts/binance-registration-mainland-china-guide) · 2026-09-16
-- [K线图详解：新手也能看懂的蜡烛图与常用指标（2026版）](https://newbeebnb.cn/posts/candlestick-chart-technical-analysis-2026) · 2026-09-16
 
 ### 📚 新手教程（持续更新）
 
